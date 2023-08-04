@@ -10,3 +10,25 @@ Objective:
 1.Understand the Dataset & cleanup (if required). 2.Build a strong classification model to predict whether the passenger survives or not. 3.Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms.
 
 Link:
+This dataset has been referred from Kaggle: https://www.kaggle.com/c/titanic/data.
+
+Data description
+Below are the description of the features in the data:
+
+1.Survival: 0 = Did not survive, 1 = Survived
+
+2.Pclass: Ticket class where 1 = First class, 2 = Second class, 3 = Third class. This can also be seen as a proxy for socio-economic status.
+
+3.Sex: Male or female
+
+4.Age: Age in years, fractional if less than 1
+
+5.SibSp: Number of siblings or spouses aboard the titanic
+
+6.Parch: Number of parents or children aboard the titanic
+
+7.Ticket: Passenger ticket number
+
+8.Fare: Passenger fare
+
+9.Cabin: Cabin number
