@@ -14,6 +14,7 @@ This dataset has been referred from Kaggle: https://www.kaggle.com/c/titanic/dat
 Below are the description of the features in the data:
 
 1.Survival: 0 = Did not survive, 1 = Survived
+
 2.Pclass: Ticket class where 1 = First class, 2 = Second class, 3 = Third class. This can also be seen as a proxy for socio-economic status.
 3.Sex: Male or female
 4.Age: Age in years, fractional if less than 1
